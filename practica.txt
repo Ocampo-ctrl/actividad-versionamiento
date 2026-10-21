@@ -1,1 +1,1 @@
-# Práctica de control de versiones - SENA 2026
+# Práctica de control de versiones
